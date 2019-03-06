@@ -11,7 +11,6 @@ use pocketmine\nbt\tag\FloatTag;
 use pocketmine\event\player\PlayerInteractEvent;
 use pocketmine\entity;
 use pocketmine\event\Listener;
-use pocketmine\entity\Entity;
 
 class throabletnt extends PluginBase implements Listener {
     
