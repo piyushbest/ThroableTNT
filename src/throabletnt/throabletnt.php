@@ -9,7 +9,7 @@ use pocketmine\nbt\tag\ByteTag;
 use pocketmine\nbt\tag\DoubleTag;
 use pocketmine\nbt\tag\FloatTag;
 use pocketmine\event\player\PlayerInteractEvent;
-use pocketmine\entity;
+use pocketmine\entity\Entity;
 use pocketmine\event\Listener;
 
 class throabletnt extends PluginBase implements Listener {
