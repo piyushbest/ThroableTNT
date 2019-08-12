@@ -6,7 +6,7 @@ use pocketmine\plugin\PluginBase;
 use pocketmine\nbt\tag\CompoundTag;
 use pocketmine\nbt\tag\ListTag;
 use pocketmine\nbt\tag\ByteTag;
-use pocketmine\nbt\tag\DoubleTag;
+use pocketmine\nbt\Tag;
 use pocketmine\nbt\tag\FloatTag;
 use pocketmine\event\player\PlayerInteractEvent;
 use pocketmine\entity\Entity;
